@@ -14,9 +14,11 @@ cuando haga un octeto, habŕa descubierto un carácter en valor ASCII de esa str
 
 <br> 
 
+### Documentación
 Si quieres ver la **documentación completa** del proyecto, puedes ver estos apuntes: <br> 
-https://42guideprojects.notion.site/Minitalk-5407d7df74e74c1bbb0202fe261e5d2f
+[Documentación](https://42guideprojects.notion.site/Minitalk-5407d7df74e74c1bbb0202fe261e5d2f)
 <br> 
 
+### Requerimientos
 Si quieres leer los requerimientos del proyecto, puedes encontrarlos aquí: <br> 
-[es.subject.pdf](https://github.com/user-attachments/files/17881999/es.subject.pdf)
+[Requerimientos](https://github.com/user-attachments/files/17881999/es.subject.pdf)
